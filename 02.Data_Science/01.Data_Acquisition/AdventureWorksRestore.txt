@@ -1,0 +1,4 @@
+Here's the link to download the AdventureWorks sample database from Microsoft:
+https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks
+
+It also contains instructions on how to restore it in your own instance of SQL Server.
